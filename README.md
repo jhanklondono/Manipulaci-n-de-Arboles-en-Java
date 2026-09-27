@@ -119,7 +119,7 @@ versión 8 o superior.
 Video explicativo individual (máximo 3 minutos), donde se explica la
 lógica de los punteros en el árbol y se demuestra el uso del sistema:
 
-`[AQUÍ VA EL ENLACE DE TU VIDEO: YouTube, Drive o GitHub]`
+https://youtu.be/1-efaiqNVCU?si=ID_TgAil2PmM9saz
 
 ## 6. Restricciones cumplidas
 
